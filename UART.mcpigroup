@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\micros\myPracticals\practicalThree\practical4.mcppi
+Project1=UART.mcppi
+Project2=finalProject2\finalProject.mcppi
+[ActiveProject]
+Index=2
