@@ -8,4 +8,6 @@ Materials used :
  .HC-05 Bluetooth module
  .Bluetooth terminal app 
  .LN298 motor drive
- 
+
+In the project pictures the simulation shows the LCD, However it was later removed. The removal of the lcd was to cut material costs
+.
